@@ -1,2 +1,2 @@
 # Development
-This a duolicate development project
+This a duplicate development project
